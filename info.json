@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "d497fa2a0304c1f296a5c107cc232af4066bf625",
+    "author": "Scott Chamberlain <myrmecocystus@gmail.com>",
+    "time": "2020-11-02 19:44:00",
+    "files": 2,
+    "merge": false,
+    "message": "replace ci badge\n"
+  },
+  "remote": "https://github.com/ropensci/conditionz",
+  "pkg": "conditionz"
+}
